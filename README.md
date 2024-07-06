@@ -1,6 +1,4 @@
 # FuzzyBat
-FuzzyBat: Combining fzf and bat functionality
-# FuzzyBat
 
 FuzzyBat is a command-line application that combines the power of fzf (fuzzy finder) and bat (syntax highlighter) into a single, easy-to-use tool. It allows users to search for files using fuzzy matching and then view the contents of the selected file with syntax highlighting.
 
